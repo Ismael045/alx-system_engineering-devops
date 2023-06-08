@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo cd ./hello
+chmod +x "hello"
