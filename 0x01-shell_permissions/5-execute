@@ -1,3 +1,2 @@
 #!/bin/bash
-pwd 
-chmod +x "hello"
+pwd.chmod +x "hello"
